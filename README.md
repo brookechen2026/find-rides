@@ -2,6 +2,14 @@
 
 A collaborative rideshare project developed through the Technology Department of UIUC Chinese Students and Scholars Association.
 
+## Overview
+
+![Ride search interface](docs/images/ride-search.jpg)
+
+![Filtered ride results](docs/images/ride-results.jpg)
+
+*Running React frontend with the project's built-in sample rides. Screenshots show search and filtering, not live bookings.*
+
 ## Features
 
 - Browse and post rides.
